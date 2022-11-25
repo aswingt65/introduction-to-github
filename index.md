@@ -1,6 +1,7 @@
 ---
-title: Github-page study
+title: Github-Page
 
-descripton: I am Aswin George Thomas.
 ---
 
+#Hi All !!
+#This is my first GitHub Page Deployement.
