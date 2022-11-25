@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Github-page study
+
+descripton: I am Aswin George Thomas.
 ---
 
